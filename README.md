@@ -17,7 +17,7 @@ Here are some renders of the custom PCB and the mechanical assemblies:
 ### Laser Assembly Render
 ![Laser Assy](Media/Laser_Assy.png)
 
-### Optical Assembly Real Image
+### Optical Assembly Real Image (No Servo)
 ![Real Assy](Media/Real_Assy.jpg)
 
 ---
