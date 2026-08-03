@@ -1,0 +1,40 @@
+Quantity;Description;MPN;Manufacturer
+1;Custom heatsink;NUBB23 HTSK;
+1;Custom Laser mount;NUBB23 Mount;
+1;Custom servo mount;Servo Mount;
+1;Custom Fan Cover;Fan Cover;
+;;;
+1;Nichia NUBB23 455nm 22000mW Blue Laser Diode;NUBB23;Nichia
+1;40 x 20 x 3.0 mm, 11.0 A Input with Leads, Peltier (TEC) Module ;CP1140203;same sky
+1;L12 Micro Linear Actuator;L12-10-xxx-xx-x;actuonix
+1;Heatsink;ATS-FPX-73-CX-R0;QATS
+1;Fan;9HVA0312P3XXXX ;Sanyo Denki
+;;;
+1;Snap-On Plastic Dust Cap for SM1 Lens Tubes, 5 Pack ;SM1EC2B ;Thorlabs
+1;"SM1 Lens Tube, 2.50"" Thread Depth, One Retaining Ring Included ";SM1L25 ;Thorlabs
+2;"SM1-Threaded 30 mm Cage Plate, 0.35"" Thick, 2 Retaining Rings, 8-32 Tap ";CP33;Thorlabs
+3;"30 mm Cage Plate with Ø1"" Double Bore, 8-32 Tap ";cp35;Thorlabs
+1;"SM1 Lens Tube, 1.00"" Thread Depth, One Retaining Ring Included ";SM1L10;Thorlabs
+1;"Cage Assembly Rod, 1/2"" Long, Ø6 mm, 4 Pack ";ER05-P4 ;Thorlabs
+1;"Cage Assembly Rod, 3"" Long, Ø6 mm, 4 Pack ";ER3-P4 ;Thorlabs
+1;"Ø1"" Brass Optic Spacer, 5 mm in Length ";SM1S5M ;Thorlabs
+2;"Ø1"" Brass Optic Spacer, 1 mm in Length ";SM1S1M ;Thorlabs
+2;"Ø1"" N-BK7 Negative Meniscus Lens, f = -100 mm, Uncoated ";LF1822 ;Thorlabs
+1;"N-BK7 Plano-Concave Lens, Ø1"", f = -50 mm, Uncoated ";LC1715 ;Thorlabs
+1;"N-BK7 Plano-Convex Lens, Ø1"", f = 200 mm, Uncoated ";LA1708 ;Thorlabs
+1;"Ø1"" N-BK7 Positive Meniscus Lens, f = 200 mm, Uncoated ";LE1202 ;Thorlabs
+1;"N-BK7 Best Form Lens, Ø1"", f = 200 mm, Uncoated ";LBF254-200 ;Thorlabs
+3;"SM1 Retaining Ring for Ø1"" Lens Tubes and Mounts ";SM1RR ;Thorlabs
+;;;
+2;"socket head screws, hex drive, 5/16"" long";91223a318;McMaster-Carr
+2;"socket head screws, hex drive, 3/8"" long";91223a319;McMaster-Carr
+1;"socket head captive panel screws, 0.266"" diameter head";95966a339;McMaster-Carr
+1;" socket head screws, hex drive, 3/4"" long";91223a323;McMaster-Carr
+2;"spacers, 1/4"" od";92510a461;McMaster-Carr
+2;"spacers, 1/4"" od";92510a460;McMaster-Carr
+1;"spacers, 1/4"" od";92510a462;McMaster-Carr
+3;hex nuts, narrow profile, 8-32 threads;90760a009;McMaster-Carr
+4;"spacers, unthreaded hole mount, 7/16"" long";92510a698;McMaster-Carr
+4;"socket head screws, hex drive, 1 3/4"" long";91251a160;McMaster-Carr
+4; rounded head screws, black plastic;96295a104;McMaster-Carr
+2;socket head screws, m2.5 x 0.45 mm thread size;91290a051;McMaster-Carr
